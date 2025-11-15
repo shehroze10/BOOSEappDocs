@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<DocumentationFile>bin\Debug\net8.0-windows\BOOSEapp.xml</DocumentationFile>
+        </PropertyGroup>
+
+	<ItemGroup>
+	  <Reference Include="BOOSE">
+	    <HintPath>..\..\..\..\..\Downloads\BOOSE.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

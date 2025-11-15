@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOOSEapp", "BOOSEapp\BOOSEapp.csproj", "{2ACD55E8-D4A6-4353-9744-7016F28DC147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boosetest", "boosetest\boosetest.csproj", "{88BA2898-290F-40BC-9D7A-A9C3301D8A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACD55E8-D4A6-4353-9744-7016F28DC147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD55E8-D4A6-4353-9744-7016F28DC147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD55E8-D4A6-4353-9744-7016F28DC147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD55E8-D4A6-4353-9744-7016F28DC147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BA2898-290F-40BC-9D7A-A9C3301D8A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BA2898-290F-40BC-9D7A-A9C3301D8A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BA2898-290F-40BC-9D7A-A9C3301D8A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BA2898-290F-40BC-9D7A-A9C3301D8A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0CD5FA-5F79-483F-8A4F-7EA039534837}
+	EndGlobalSection
+EndGlobal

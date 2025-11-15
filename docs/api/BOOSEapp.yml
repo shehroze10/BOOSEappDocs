@@ -1,0 +1,58 @@
+### YamlMime:ManagedReference
+items:
+- uid: BOOSEapp
+  commentId: N:BOOSEapp
+  id: BOOSEapp
+  children:
+  - BOOSEapp.AppCanvas
+  - BOOSEapp.AppCircle
+  - BOOSEapp.AppCommandFactory
+  - BOOSEapp.AppMoveTo
+  - BOOSEapp.AppRect
+  - BOOSEapp.Form1
+  langs:
+  - csharp
+  - vb
+  name: BOOSEapp
+  nameWithType: BOOSEapp
+  fullName: BOOSEapp
+  type: Namespace
+  assemblies:
+  - BOOSEapp
+references:
+- uid: BOOSEapp.AppCanvas
+  commentId: T:BOOSEapp.AppCanvas
+  href: BOOSEapp.AppCanvas.html
+  name: AppCanvas
+  nameWithType: AppCanvas
+  fullName: BOOSEapp.AppCanvas
+- uid: BOOSEapp.AppCircle
+  commentId: T:BOOSEapp.AppCircle
+  href: BOOSEapp.AppCircle.html
+  name: AppCircle
+  nameWithType: AppCircle
+  fullName: BOOSEapp.AppCircle
+- uid: BOOSEapp.AppCommandFactory
+  commentId: T:BOOSEapp.AppCommandFactory
+  href: BOOSEapp.AppCommandFactory.html
+  name: AppCommandFactory
+  nameWithType: AppCommandFactory
+  fullName: BOOSEapp.AppCommandFactory
+- uid: BOOSEapp.AppMoveTo
+  commentId: T:BOOSEapp.AppMoveTo
+  href: BOOSEapp.AppMoveTo.html
+  name: AppMoveTo
+  nameWithType: AppMoveTo
+  fullName: BOOSEapp.AppMoveTo
+- uid: BOOSEapp.AppRect
+  commentId: T:BOOSEapp.AppRect
+  href: BOOSEapp.AppRect.html
+  name: AppRect
+  nameWithType: AppRect
+  fullName: BOOSEapp.AppRect
+- uid: BOOSEapp.Form1
+  commentId: T:BOOSEapp.Form1
+  href: BOOSEapp.Form1.html
+  name: Form1
+  nameWithType: Form1
+  fullName: BOOSEapp.Form1
